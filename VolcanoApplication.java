@@ -4,7 +4,7 @@ class VolcanoApplicaton {
     public static void main(String[] arguments) {
         VolcanoRobot dante = new VolcanoRobot();
         VolcanoRobot virgil = new VolcanoRobot();
-        virgil.status = "exploringftw";
+        virgil.status = "exploring";
         virgil.speed = 2;
         virgil.temperature = 510;
         dante.status = "exploring";
