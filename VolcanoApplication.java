@@ -5,7 +5,7 @@ class VolcanoApplicaton {
         VolcanoRobot dante = new VolcanoRobot();
         VolcanoRobot virgil = new VolcanoRobot();
         virgil.status = "exploring";
-        virgil.speed = 2000;
+        virgil.speed = 2;
         virgil.temperature = 510;
         dante.status = "exploring";
         dante.speed = 2;
